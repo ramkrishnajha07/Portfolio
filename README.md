@@ -25,7 +25,7 @@ A modern and responsive developer portfolio designed to showcase my projects, te
 
 ## Live Demo
 
-Add your deployed portfolio link here.
+(https://portfolio-ten-ashy-30.vercel.app/)
 
 ## Contact
 
